@@ -11,10 +11,12 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Union Find
 |  |
 | ------- |
@@ -23,4 +25,16 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
