@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -20,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -28,6 +30,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
