@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 ## Depth-First Search
@@ -26,6 +27,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -48,4 +50,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
