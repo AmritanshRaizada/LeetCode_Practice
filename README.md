@@ -37,4 +37,12 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
