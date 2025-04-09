@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
