@@ -48,6 +48,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+| [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -70,4 +71,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
