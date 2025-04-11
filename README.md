@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -75,4 +76,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
