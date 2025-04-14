@@ -57,6 +57,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0242-valid-anagram](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -92,6 +93,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -121,5 +123,6 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
