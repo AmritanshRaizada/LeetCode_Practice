@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
@@ -51,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0008-string-to-integer-atoi](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -93,4 +95,20 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
