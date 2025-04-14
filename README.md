@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
