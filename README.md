@@ -55,6 +55,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0013-roman-to-integer](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
@@ -75,11 +76,13 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0231-power-of-two) |
 ## Recursion
@@ -127,4 +130,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2032-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
