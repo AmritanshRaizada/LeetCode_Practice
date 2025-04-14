@@ -1,0 +1,50 @@
+import java.util.*;
+
+class Solution {
+    static int twoStacks(int x, int[] a, int[] b) {
+        int sum = 0, i = 0, j = 0, count = 0, maxCount = 0;
+
+        // Take as many from a as possible
+        while (i < a.length && sum + a[i] <= x) {
+            sum += a[i];
+            i++;
+        }
+        maxCount = i;
+
+        // Try to add from b, and remove from a if needed
+        while (j < b.length) {
+            sum += b[j];
+            j++;
+
+            while (sum > x && i > 0) {
+                i--;
+                sum -= a[i];
+            }
+
+            if (sum <= x) {
+                maxCount = Math.max(maxCount, i + j);
+            }
+        }
+
+        return maxCount;
+    }
+
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int t = s.nextInt();
+        for (int i = 0; i < t; i++) {
+            int n = s.nextInt();
+            int m = s.nextInt();
+            int x = s.nextInt();
+            int[] a = new int[n];
+            int[] b = new int[m];
+            for (int j = 0; j < n; j++) {
+                a[j] = s.nextInt();
+            }
+            for (int j = 0; j < m; j++) {
+                b[j] = s.nextInt();
+            }
+            System.out.println(twoStacks(x, a, b));
+        }
+    }
+}
