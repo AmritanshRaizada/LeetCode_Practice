@@ -79,5 +79,14 @@ This repository contains my solutions to various LeetCode problems, categorized 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
