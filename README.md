@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0136-single-number](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0225-implement-stack-using-queues](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -146,4 +148,5 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
