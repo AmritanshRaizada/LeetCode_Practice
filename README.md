@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Depth-First Search
 |  |
@@ -39,6 +40,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0128-longest-consecutive-sequence](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
@@ -100,6 +102,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0155-min-stack](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -139,4 +142,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
