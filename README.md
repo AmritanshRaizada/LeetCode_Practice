@@ -59,6 +59,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0014-longest-common-prefix](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0812-rotate-string) |
@@ -149,4 +150,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
