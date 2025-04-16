@@ -1,23 +1,24 @@
 class Solution {
-     public int[] nextGreaterElements(int[] nums) {
+    public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
         int[] result = new int[n];
-        Arrays.fill(result, -1);  // initialize with -1
+        Stack<Integer> stack = new Stack<>(); // Stack stores indices
 
-        Stack<Integer> stack = new Stack<>();
+        for (int i = 2 * n - 1; i >= 0; i--) {
+            int curr = nums[i % n];
 
-        // Traverse the array twice to simulate circular array
-        for (int i = 0; i < 2 * n; i++) {
-            int index = i % n;
-
-            while (!stack.isEmpty() && nums[index] > nums[stack.peek()]) {
-                result[stack.pop()] = nums[index];
+            // Pop all elements smaller than or equal to current
+            while (!stack.isEmpty() && nums[stack.peek()] <= curr) {
+                stack.pop();
             }
 
-            // Only push during the first pass
+            // If we're in the first round (i < n), store result
             if (i < n) {
-                stack.push(index);
+                result[i] = stack.isEmpty() ? -1 : nums[stack.peek()];
             }
+
+            // Push current index to stack
+            stack.push(i % n);
         }
 
         return result;
