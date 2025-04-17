@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
