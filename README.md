@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0200-number-of-islands](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Depth-First Search
@@ -109,6 +110,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 | [0232-implement-queue-using-stacks](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -148,6 +150,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/AmritanshRaizada/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
